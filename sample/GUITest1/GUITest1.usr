@@ -35,20 +35,15 @@ ProductName=Micro Focus Unified Functional Testing
 Version=14.53
 
 [TulipAddins]
-ActiveX=
 AI=
 Database=
 File Content=
 Insight=
 Java=
 Oracle=
-Silverlight=
 Windows Applications=
 TEA=
-UI Automation=
 Web=
-.NET=
-WPF=
 XML=
 
 [ExtraFiles]
